@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "pmwg"]
+	path = pmwg
+	url = https://github.com/newcastlecl/pmwg
+	shallow = true
+	registered = true
